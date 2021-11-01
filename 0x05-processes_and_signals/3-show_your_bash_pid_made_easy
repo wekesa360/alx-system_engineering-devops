@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# A bash script that displays the process name,
+# of processes whose name contains the word "bash".
+
+pgrep bash -1
